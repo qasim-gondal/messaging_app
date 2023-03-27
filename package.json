@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-dropdown": "^2.5.0",
+    "semantic-ui-modal": "^2.5.0",
+    "semantic-ui-transition": "^2.5.0"
+  }
+}
